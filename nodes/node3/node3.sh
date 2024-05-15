@@ -9,4 +9,4 @@
     --http.addr=0.0.0.0 \
     --http.api "eth,net,web3,personal,debug,admin,net,txpool" \
     --unlock  0x2affb74ea87dfdbc41cf0b8b159b34b863bbff92 \
-    --password "/home/gd-ethereum-node-test-user/privatechain/node1/pass.txt"
+    --password "/home/gd-ethereum-node-test-user/privatechain/nodes/pass.txt"
